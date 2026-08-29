@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://atharvalakhe.github.io/AtharvaLakhe/"><img alt="Live demo" src="https://img.shields.io/badge/demo-live-2ea44f"></a>
+  <a href="https://atharvalakhe.github.io/FancePro/"><img alt="Live demo" src="https://img.shields.io/badge/demo-live-2ea44f"></a>
   <img alt="Static HTML" src="https://img.shields.io/badge/stack-HTML%20%2B%20CSS%20%2B%20JS-5a6ec4">
   <img alt="No build" src="https://img.shields.io/badge/build-none-informational">
   <img alt="No dependencies" src="https://img.shields.io/badge/dependencies-0-informational">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <a href="https://atharvalakhe.github.io/AtharvaLakhe/"><b>Open the live demo →</b></a>
+  <a href="https://atharvalakhe.github.io/FancePro/"><b>Open the live demo →</b></a>
 </p>
 
 <p align="center">
@@ -177,7 +177,7 @@ State lives in memory only: no `localStorage`, no `sessionStorage`. Close the ta
 ### Publishing with GitHub Pages
 
 **Settings → Pages → Source: Deploy from a branch → `main` → `/ (root)` → Save.**
-Pages serves `index.html` directly at `https://atharvalakhe.github.io/AtharvaLakhe/`.
+Pages serves `index.html` directly at `https://atharvalakhe.github.io/FancePro/`.
 
 ---
 
